@@ -1,0 +1,1 @@
+Get-DhcpServerv4Scope | ConvertTo-Json -Depth 1 -Compress
