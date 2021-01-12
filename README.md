@@ -8,3 +8,10 @@ Fatures
 - Disocvery all scopes (FreeIP, UsedIP, atc.. )
 - Graph of Scopes and SuperScopes
 - Load-tuned powershell script
+
+
+Instalation:
+
+- copy scripts and zabbix_agentd.conf.d in to zabbix agent install folder.
+- inport template
+- in zabbix_agentd.conf chnage parameter Timeout=30
